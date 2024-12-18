@@ -5,7 +5,7 @@ Collection of Jupyter Notebooks showcasing deep learning projects, including imp
 
 Deep Learning is a subset of machine learning that focuses on training artificial neural networks with multiple layers (hence "deep") to learn and extract patterns from large datasets. It mimics the human brain's ability to process data, recognize patterns, and make decisions.
 
-Deep learning is powered by artificial neural networks (ANNs) that consist of interconnected nodes (neurons) organized in layers:
+Deep learning is powered by artificial neural networks (ANNs) that consist of interconnected nodes (neurons) organized 
 
 1. Input Layer: Takes the raw data (e.g., images, text, audio).
 2. Hidden Layers: Perform feature extraction and transformations using nonlinear functions.
