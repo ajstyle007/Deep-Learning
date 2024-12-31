@@ -1,6 +1,5 @@
 # Deep-Learning
-Collection of Jupyter Notebooks showcasing deep learning projects, including implementations of neural networks, CNNs, RNNs, transformers, and more. Ideal for learning and experimenting with deep learning concepts and models.
-
+Collection of Jupyter Notebooks showcasing deep learning projects, including implementations of neural networks, CNNs, RNNs, transformers, and more. Ideal for learning and experimenting with deep learning concepts 
 ![what-is-deep-learning](https://github.com/user-attachments/assets/19a4e193-50f0-4c6b-bf77-6165a1521939)
 
 Deep Learning is a subset of machine learning that focuses on training artificial neural networks with multiple layers (hence "deep") to learn and extract patterns from large datasets. It mimics the human brain's ability to process data, recognize patterns, and make decisions.
